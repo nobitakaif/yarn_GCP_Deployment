@@ -1,0 +1,3 @@
+{
+  "extends":"@reop/typescript-config/base.json"
+}
